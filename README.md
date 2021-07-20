@@ -9,9 +9,8 @@ Informatiile sunt preluate din mai multe baze de date oferite de Institutul Nati
 
 Baza de date contine 13.851 inregistrari
 
-<h3></h3>
-Format
-Tabelele contin urmatoarele coloane:
+<h3>Format</h3>
+<h4>Tabelele contin urmatoarele coloane:</h4>
 
 "id" - id generat la introducerea in baza de date
 
